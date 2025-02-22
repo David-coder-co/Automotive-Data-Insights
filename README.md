@@ -1,8 +1,8 @@
-### Automotive-Data-Insights
-## INTRODUCTION
+# Automotive-Data-Insights
+### INTRODUCTION
 This repository contains an in-depth analysis of an automotive dataset using Python. It explores key insights such as consumer preferences, factors influencing car price, fuel efficiency and other crucial factors. The project includes data cleaning, visualization, and statistical analysis using libraries like Pandas, Matplotlib, and Seaborn.
 
-## DATASET SUMMARY
+### DATASET SUMMARY
 
 The dataset automobile.txt provides a comprehensive overview of automobile characteristics, encompassing a variety of features that detail both the physical specifications and performance metrics of vehicles. This dataset is well-suited for analyses focused on understanding trends in automobile manufacturing, evaluating performance attributes, and exploring relationships between vehicle characteristics and pricing.
 
@@ -79,6 +79,19 @@ This bar plot highlights the relationship between engine location and the averag
 
 ![image](https://github.com/user-attachments/assets/0225b82b-dea7-4350-84f5-240174ba871c)
 
+### Installation & Setup 🚀
+To set up the project on your local machine:
+- Clone the repository and navigate into the project directory.
+- Create a virtual environment (recommended for dependency management).
+- Install the required dependencies listed in requirements.txt.
+- Launch Jupyter Notebook if working with automobile.ipynb files.
+
+### Usage 📊
+After completing the setup, you can:
+- Open Jupyter Notebook and run the analysis step by step.
+- Modify and explore different dataset parameters.
+- Generate visualizations to uncover insights related to car prices, fuel efficiency, and consumer behavior.
+- Run Python scripts to analyze trends and patterns in the automotive dataset.
 
 THIS REPORT WAS WRITTEN BY : DAVID SETHATHI
 
