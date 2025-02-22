@@ -1,7 +1,8 @@
-# Automotive-Data-Insights
-### INTRODUCTION
+### Automotive-Data-Insights
+## INTRODUCTION
+This repository contains an in-depth analysis of an automotive dataset using Python. It explores key insights such as consumer preferences, factors influencing car price, fuel efficiency and other crucial factors. The project includes data cleaning, visualization, and statistical analysis using libraries like Pandas, Matplotlib, and Seaborn.
 
-### DATASET SUMMARY
+## DATASET SUMMARY
 
 The dataset automobile.txt provides a comprehensive overview of automobile characteristics, encompassing a variety of features that detail both the physical specifications and performance metrics of vehicles. This dataset is well-suited for analyses focused on understanding trends in automobile manufacturing, evaluating performance attributes, and exploring relationships between vehicle characteristics and pricing.
 
